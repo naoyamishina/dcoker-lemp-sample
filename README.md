@@ -16,3 +16,8 @@ docker-compose ps
 ```
 docker-compose down
 ```
+
+- 環境変数をコピー（練習アプリ以外は各自変更すること）
+```
+cp src/.env.example src/.env
+```
