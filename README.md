@@ -34,3 +34,7 @@ docker-compose ps
 docker-compose down
 ```
 
+-　ブラウザで起動
+```
+localhost:8081
+```
