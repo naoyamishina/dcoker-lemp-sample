@@ -1,7 +1,7 @@
 ## 環境構築方法
 - このリポジトリをローカルにクローン
 ```
-git clone
+git clone https://github.com/naoyamishina/dcoker-lemp-sample.git
 ```
 
 - 環境変数をコピー（練習アプリ以外は各自変更すること）
